@@ -9,6 +9,6 @@ public class Main {
             System.out.println("OwO");
             owoCount++;
         }
-        System.out.println("OwO count: " + owoCount);
+        System.out.println("OwO count help me: " + owoCount);
     }
 }
